@@ -1,0 +1,4 @@
+faiss_index.bin filter=lfs diff=lfs merge=lfs -text
+chunks.pkl filter=lfs diff=lfs merge=lfs -text
+metadata.json filter=lfs diff=lfs merge=lfs -text
+data/*.csv filter=lfs diff=lfs merge=lfs -text

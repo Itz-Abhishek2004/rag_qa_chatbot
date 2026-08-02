@@ -1,0 +1,12 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+faiss_index.bin
+chunks.pkl
+metadata.json
+data/*.csv
+evaluation_results.csv
+venv/
+.DS_Store
+.notebook_checkpoints
