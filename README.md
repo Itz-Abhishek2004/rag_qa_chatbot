@@ -2,8 +2,6 @@
 
 **Retrieval-Augmented Generation (RAG)** chatbot for intelligent question-answering over large document collections.
 
-![RAG Architecture](https://miro.medium.com/v2/resize:fit:1400/1*tMxEWZW3P4M8qfB8qGqGqG.png)
-
 ## 🎯 Project Overview
 
 This project implements a production-ready RAG pipeline that retrieves relevant context from 21,417 news articles (43,516 chunks) and generates accurate, grounded answers using LLMs.
