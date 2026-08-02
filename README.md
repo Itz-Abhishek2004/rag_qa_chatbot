@@ -109,6 +109,15 @@ Open browser: http://localhost:8501
 
 ---
 
+## 📥 Download Pre-built Index (Optional)
+
+Large files are not included due to GitHub's 100MB limit.
+
+Download from Google Drive:
+- [faiss_index.bin, chunks.pkl, metadata.json](https://drive.google.com/drive/folders/1MF0aKAxahrU-VgU1HyLiHZNfWdoDLK9z?usp=sharing)
+
+Place them in the project root directory.
+
 ## 📖 How It Works
 
 ### 1. Data Pipeline
@@ -185,17 +194,10 @@ Open browser: http://localhost:8501
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 👤 Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
+**Abhishek Sahani**  
+[LinkedIn](https://www.linkedin.com/in/abhishek-sahani-b1bb33292/) 
 ---
 
 ## 🙏 Acknowledgments
